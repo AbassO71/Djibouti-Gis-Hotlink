@@ -1,11 +1,12 @@
 # Djibouti-Gis-Hotlink
-Djibouti Gis Hotlink is aiming at the numerisation of GIS shapefiles. It is utilised in a various ways. Students, business people, tourists...
+Djibouti Gis Hotlink is aiming at the numerisation of GIS shapefiles. It is utilised in a various ways. Specialy utilisation: Students in the university, business people, tourists, United Nation Orgaisations, Ngos.
 
-The division of the Republic of Djibouti:
+The Administrative divisions of the Republic of Djibouti:
+the divisions are in 7 level:
 
 As part of the collection of information in the surveys, the following RDD Territorial Division is used:
 • afr_dji_l02_2011 the Republic of Djibouti (RDD);
-RDD constitutes the second level administrative unit. The total area of ​​the country is 23,700 km².
+RDD constitutes the second level administrative unit. The total area of the country is 23,700 km².
 
 • afr_dji_l03_2011 the Regions;
 The region constitutes the 3rd level administrative unit. The administrative manager is the Prefect of the Region.
